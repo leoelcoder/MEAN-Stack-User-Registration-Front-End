@@ -1,7 +1,7 @@
 {
-  "name": "project",
+  "name": "user-registration-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js backend API for user registration application",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
